@@ -1,0 +1,5 @@
+name: Verity
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+description: A friendly yellow companion named Verity.
